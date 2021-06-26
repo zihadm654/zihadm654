@@ -40,10 +40,10 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ff2865?style=flat-square&logo=Figma&logoColor=white" />
   </p>
-<img align="right" width="400" height="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="370" height="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **Streak counter**
-<p align="left">
+<p align="left" width="400">
     <a href="https://github.com/zihadm654/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zihadm654&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 📊 **This Week I Spent My Time On:**
@@ -68,8 +68,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <br/>
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
 <a href="https://github.com/zihadm654/github-readme-activity-graph"><img alt="Abdul Malik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zihadm654&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<br/>
 ## Connect with me:
 <p align="center">
 
