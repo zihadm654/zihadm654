@@ -47,10 +47,6 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
     <a href="https://github.com/zihadm654/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zihadm654&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 📊 **This Week I Spent My Time On:**
-<<<<<<< HEAD
-=======
-<p width="240">
->>>>>>> 77a338cb8e2d9d49a04a7717012d0fd20f5f952c
 ```text
 JSX          18 hrs 52 mins  █████████████████████▒░░░   84.88 % 
 JavaScript   2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
