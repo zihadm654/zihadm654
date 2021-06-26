@@ -40,7 +40,7 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ff2865?style=flat-square&logo=Figma&logoColor=white" />
   </p>
-<img align="right" width="370" height="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="center" width="500" height="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **Streak counter**
 <p align="left" width="360">
