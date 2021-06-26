@@ -21,6 +21,7 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="netlify" src="https://img.shields.io/badge/-netlify-563d7c?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -38,6 +39,7 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ff2865?style=flat-square&logo=Figma&logoColor=white" />
+  </p>
 <img align="right" width="400" height="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **Streak counter**
