@@ -47,6 +47,7 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
     <a href="https://github.com/zihadm654/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zihadm654&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 📊 **This Week I Spent My Time On:**
+<p width="400">
 ```text
 JSX          18 hrs 52 mins  █████████████████████▒░░░   84.88 % 
 JavaScript   2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
@@ -55,9 +56,9 @@ HTML         7 mins          ░░░░░░░░░░░░░░░░░
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</>
 
 
 ## 📊 My Github Stats
