@@ -20,37 +20,55 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-<a href="#"><img width="60%" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></a>
-
 ## 🚀 Languages and Tools:
-<br/>
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/40/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/css3.png"/> </a>
-    <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/40/000000/sass.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/40/000000/nodejs.png"/> </a>  
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/firebase.png"/> </a>    
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/git.png"/> </a>  
-    <a href="https://github.org" target="_blank"> <img src="https://img.icons8.com/fluent/40/000000/github.png"/> </a>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="netlify" src="https://img.shields.io/badge/-netlify-563d7c?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Boostrap" src="https://img.shields.io/badge/-Boostrap-563d7c?style=flat-square&logo=boostrap&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/-Css-2965F1?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Chrome browser" src="https://img.shields.io/badge/-Chrome_Browser-FB542B?style=flat-square&logo=chrome&logoColor=white" />
+  <img alt="Parcel" src="https://img.shields.io/badge/-Parcel-EC4A3F?style=flat-square&logo=Parcel&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-ff2865?style=flat-square&logo=Figma&logoColor=white" />
 </p>
-<p align="left">
+<br/>
+<img align="right" width="500" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+
+**Streak counter**
+<p align="center">
     <a href="https://github.com/zihadm654/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zihadm654&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-</p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+📊 **This Week I Spent My Time On:**
+```text
+JSX          18 hrs 52 mins  █████████████████████▒░░░   84.88 % 
+JavaScript   2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+```
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
 
 
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/zihadm654/github-readme-stats"><img alt="Abdul Malik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zihadm654&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/zihadm654/github-readme-stats"><img alt="Abdul Malik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihadm654&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/zihadm654/github-readme-stats"><img alt="Abdul Malik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihadm654&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
