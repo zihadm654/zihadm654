@@ -43,7 +43,7 @@ I'm a Self Taught Front-end-Developer and UI/UX Designer from Bangladesh.</h3>
 <img align="right" width="370" height="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **Streak counter**
-<p align="left" width="400">
+<p align="left" width="380">
     <a href="https://github.com/zihadm654/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zihadm654&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 📊 **This Week I Spent My Time On:**
